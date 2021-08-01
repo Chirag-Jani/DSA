@@ -1,0 +1,58 @@
+Notations : 
+Done = ✅
+Not Done = 🔴
+From Problems = 💡
+Contest Problem = ⚡
+
+_______________________________________________________________________
+
+TOTAL QUESTIONS SOLVED.. = 16
+
+Problem Part
+EASY = 15
+
+Contest Problem Part
+EASY = 1
+
+TRIED BUT UNSOLVED.. = 4
+💡---> 1431_greatest_no_of_candies.cpp (EASY)
+💡---> 1313_decompress_run_length_encoded_list.cpp (EASY)
+💡---> 1389_target_array_in_given_order.cpp (EASY)
+⚡---> Three Divisors (Contest Problem ) - (MEDIUM) => 🔴
+
+_______________________________________________________________________
+
+25th July, 2021
+💡 -> 1470_shuffle_the_array.cpp => DONE ✅
+💡 -> 1929_concatenation_of_array.cpp => DONE ✅
+💡 -> 1672_richest_customer_wealth.cpp => Started (Not Completed)
+
+
+26th July, 2021
+💡 -> 1528_shuffle_the_string.cpp => DONE ✅
+💡 -> 1672_richest_customer_wealth.cpp => DONE ✅ (Completed)
+💡 -> 1480_running_sum_of_array.cpp => DONE ✅
+💡 -> 1295_numbers_with_even_digits.cpp => DONE ✅
+
+
+27th July, 2021
+💡 -> 1_two_sum.cpp => DONE ✅
+💡 -> 1431_greatest_no_of_candies.cpp => Started (Almost Completed)
+
+28th July, 2021
+💡 -> 1431_greatest_no_of_candies.cpp => Started (Trying)🔴
+
+29th and 30th wasted... 😞
+
+31st July, 2021
+💡 -> 1920_array_from_permutation.cpp => DONE ✅
+💡 -> 1512_no_of_good_pairs.cpp => DONE ✅
+💡 -> 1365_numbers_less_than_current_no.cpp => DONE ✅
+💡 -> 1313_decompress_run_length_encoded_list.cpp => (Trying)🔴
+💡 -> 1389_target_array_in_given_order.cpp => (Trying)🔴
+
+1st August, 2021
+⚡ -> Max no of weeks (Contest Problem ) - EASY Level => DONE ✅
+⚡ -> Three Divisors (Contest Problem ) - Medium Level => (Trying)🔴
+
+2nd August, 2021
